@@ -5,7 +5,7 @@ All thanks to Fuerte Developers,check website  <a href="https://www.fuertedevelo
 <br>
 
 # Screenshots
-<img src="screenshot.png">
+<img src="screenshot1.png">
 
 
 ## Getting Started
